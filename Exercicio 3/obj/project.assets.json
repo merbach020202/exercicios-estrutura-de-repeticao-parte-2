@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Estrutura condicional\\EstruturaCondicionalParte3\\Exercicio 3\\Exercicio 3.csproj",
+      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Estrutura condicional\\EstruturaCondicional (Parte 3)\\Exercicio 3\\Exercicio 3.csproj",
       "projectName": "Exercicio 3",
-      "projectPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Estrutura condicional\\EstruturaCondicionalParte3\\Exercicio 3\\Exercicio 3.csproj",
+      "projectPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Estrutura condicional\\EstruturaCondicional (Parte 3)\\Exercicio 3\\Exercicio 3.csproj",
       "packagesPath": "C:\\Users\\44850641822\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Estrutura condicional\\EstruturaCondicionalParte3\\Exercicio 3\\obj\\",
+      "outputPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Estrutura condicional\\EstruturaCondicional (Parte 3)\\Exercicio 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44850641822\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,31 +1,12 @@
-﻿Console.WriteLine($"Digite um número inteiro: ");
-int numero = int.Parse(Console.ReadLine());
+﻿Console.WriteLine($"Digite um número: ");
+float numeroDigitado = float.Parse(Console.ReadLine());
 
-int resposta = 0;
 
-for (int a = numero; a <= 10; a++)
+for (int i = 1; i <= 10;i++)
 {
-   resposta = numero + numero;
+   float resultado = i * numeroDigitado;
+   Console.WriteLine($"{numeroDigitado} * {i} = {resultado}");
 }
-
-
-// while (a * 10)
-// {
-    
-// }
-
-
-// do
-// {
-//     numero++;
-// } 
-
-// while (numero );
-// {
-
-// }
-
-
 
 
 
